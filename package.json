@@ -1,0 +1,21 @@
+{
+  "name": "winx-la-notte",
+  "version": "1.0.0",
+  "description": "Winx kryta",
+  "author": "piemekanika",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxt/typescript-build": "^0.3.5",
+    "@nuxtjs/tailwindcss": "^1.0.0"
+  }
+}
